@@ -12,9 +12,9 @@ To complete calc_hours function, first total up the hours saved in the array int
 
 ## Example:
 
-Number of weeks: 3
-Week 1 Hours: 3
-Week 2 Hours: 7
-Week 3 Hours: 10
-Enter T for total hours, A for average hours per week: A
-6.7 hours
+- Number of weeks: 3
+- Week 1 Hours: 3
+- Week 2 Hours: 7
+- Week 3 Hours: 10
+- Enter T for total hours, A for average hours per week: A
+- 6.7 hours
