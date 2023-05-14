@@ -1,4 +1,4 @@
-# Scarrble Challenge
+# Scrabble Challenge
 
 ## Background
 
